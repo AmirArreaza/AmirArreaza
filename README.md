@@ -1,5 +1,5 @@
 # 💫 About Me:
-Throughout my ten-year journey in software engineering, I have found my passion in balancing full-stack expertise with DevOps finesse. <br>Since 2010, I have been crafting seamless user experiences, focusing on Java, C#, and JavaScript with the React library for frontend excellence. <br><br>I am well-versed in tools like Jenkins, Docker, and Kubernetes, ensuring efficient DevOps practices. <br>I am excited to collaborate and explore new opportunities where I can leverage my skills to create innovative solutions.<br><br>Currently based in London ![location][https://icons8.com/icon/15534/great-britain]
+Throughout my ten-year journey in software engineering, I have found my passion in balancing full-stack expertise with DevOps finesse. <br>Since 2010, I have been crafting seamless user experiences, focusing on Java, C#, and JavaScript with the React library for frontend excellence. <br><br>I am well-versed in tools like Jenkins, Docker, and Kubernetes, ensuring efficient DevOps practices. <br>I am excited to collaborate and explore new opportunities where I can leverage my skills to create innovative solutions.<br><br>Currently based in London ![location](https://icons8.com/icon/15534/great-britain)
 
 
 ## 🌐 Socials:
