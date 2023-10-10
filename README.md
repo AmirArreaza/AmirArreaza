@@ -1,6 +1,7 @@
 # 💫 About Me:
 Throughout my ten-year journey in software engineering, I have found my passion in balancing full-stack expertise with DevOps finesse. <br>Since 2010, I have been crafting seamless user experiences, focusing on Java, C#, and JavaScript with the React library for frontend excellence. <br><br>I am well-versed in tools like Jenkins, Docker, and Kubernetes, ensuring efficient DevOps practices. <br>I am excited to collaborate and explore new opportunities where I can leverage my skills to create innovative solutions.
 
+[![](https://visitcount.itsvg.in/api?id=AmirArreaza&icon=0&color=9)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AmirArreaza) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AmirArreaza) 
@@ -15,16 +16,3 @@ Throughout my ten-year journey in software engineering, I have found my passion 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AmirArreaza&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AmirArreaza&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=AmirArreaza&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
